@@ -15,7 +15,7 @@ Soon enough that will be automated though.
 Another caveat is that right now you cant modify plugin parameters.  
 That will also change soon (hopefully).  
 If you still want to use this as-is, I'd recommend putting all plugins that have plugins parameters into the standard plugins folder.    
-You can use rmmvLoader and the regular plugin rmmv plugin loader at the same time, they both just load plugins by adding them as script tags.  
+You can use rmmvLoader and the regular rmmv plugin loader at the same time, they both just load plugins by adding them as script tags.  
   
 # TODO:  
 - [ ] Automatically generate include.json  
