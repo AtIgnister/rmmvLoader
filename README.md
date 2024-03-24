@@ -10,10 +10,8 @@ This gets annoying pretty quickly, especially if your project uses a lot of plug
 Not much to be honest, this is still *very* early in development.  
 Right now, it just lets you seperate your plugins by author instead of having to put them all into the same folder.  
 So, instead of js/plugins/YEP_AutoSwitches.js its now rmmvLoader/vendors/yanfly/AutoSwitches/AutoSwitches.js.  
-Currently, you still have to setup all of the plugins you use by hand-editing the include.json file,  
-soon enough that will be automated though.   
-Another caveat is that right now you cant modify plugin parameters, but  
-that will also change soon (hopefully).  
+Currently, you still have to setup all of the plugins you use by hand-editing the include.json file, soon enough that will be automated though.   
+Another caveat is that right now you cant modify plugin parameters, but that will also change soon (hopefully).  
 If you still want to use this as-is, I'd recommend putting all plugins that have plugins parameters into the standard plugins folder.    
 You can use rmmvLoader and the regular rmmv plugin loader at the same time, they both just load plugins by adding them as script tags.  
   
