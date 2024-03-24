@@ -1,0 +1,8 @@
+{
+    "vendors": [
+        {
+            "vendor":"rmmv",
+            "plugins": ["examplePlugin"]
+        }
+    ]
+}
