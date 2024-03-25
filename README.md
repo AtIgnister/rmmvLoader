@@ -25,4 +25,4 @@ You can use rmmvLoader and the regular rmmv plugin loader at the same time, they
 
 # How to install
 Unzip the contents of the latest release and drag them into your rmmv project, then enable the mvLoader plugin.  
-To use the cli app, install [bun](https://bun.sh/) and run the command 'bun rmmvLoaderCli.js' while in the same directory as the file.  
+To use the cli app, install [bun](https://bun.sh/) and run the command 'bun rmmvl.js' while in the same directory as the file.  
